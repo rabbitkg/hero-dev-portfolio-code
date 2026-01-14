@@ -1,0 +1,11 @@
+/* laptop device */
+@media screen and (max-width:1200px) {}
+/* tablat device */
+@media screen and (max-width:992px) {}
+/* Big Moble device */
+@media screen and (max-width:768px) {}
+/* Normal device */
+@media screen and (max-width:576px) {}
+
+
+@media screen and (min-width:577) and (max-width:992px) {}
